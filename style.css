@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+
+/*параметры для всей страницы*/
+body {
+  background: rgb(218, 215, 215);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*игровое поле*/
+canvas {
+  border: 5px solid rgb(5, 116, 79);
+}
